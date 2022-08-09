@@ -1,0 +1,5 @@
+" monokai theme
+syntax enable
+colorscheme monokai
+
+source ~/.vim/vim-init/init.vim
