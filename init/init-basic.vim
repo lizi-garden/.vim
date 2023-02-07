@@ -22,9 +22,9 @@ set wrapmargin=2
 set mouse=a                     " 支持鼠标
 set noerrorbells                " 出错时，不要发出响声
 set autoread                    " 打开文件监视
-set listchars=tab:»■,trail:■    " 显示多余的空格
+" set listchars=tab:»■,trail:■    " 显示多余的空格
 set showcmd
-set list
+" set list
 set showmatch                   " 高亮匹配括号
 set autochdir                   " 自动切换工作目录
 set wildmenu                    " 命令模式下支持自动补全

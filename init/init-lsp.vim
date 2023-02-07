@@ -1,3 +1,7 @@
+if !has_key( g:, 'ycm_language_server' )
+  let g:ycm_language_server = []
+endif
+
 let g:ycm_language_server = 
   \ [ 
   \   {
