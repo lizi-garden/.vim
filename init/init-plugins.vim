@@ -23,6 +23,13 @@ Plug 'habamax/vim-godot'
 " C#
 Plug 'OmniSharp/Omnisharp-vim'
 
+" Codeium
+Plug 'Exafunction/codeium.vim'
+
+" Verilog
+Plug 'vhda/verilog_systemverilog.vim'
+Plug 'HonkW93/automatic-verilog'
+
 call plug#end()
 
 " LoadScript init/init-input.vim

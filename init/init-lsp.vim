@@ -15,11 +15,16 @@ let g:ycm_language_server =
   \     'filetypes': [ 'gdscript' ],
   \     'port': 6008,
   \     'project_root_files': [ 'project.godot' ]
-  \    },
-  \    {
+  \   },
+  \   {
   \     'name': 'ccls',
   \     'cmdline': [ 'ccls' ],
   \     'filetypes': [ 'c', 'cpp', 'cuda', 'objc', 'objcpp' ],
   \     'project_root_files': [ '.ccls-root', 'compile_commands.json' ]
-  \    }
+  \   },
+  \   {
+  \       'name': 'bash',
+  \       'cmdline': [ 'bash-language-server', 'start' ],
+  \       'filetypes': [ 'sh' ],
+  \   }
   \ ]
