@@ -30,6 +30,12 @@ Plug 'Exafunction/codeium.vim'
 Plug 'vhda/verilog_systemverilog.vim'
 Plug 'HonkW93/automatic-verilog'
 
+" Spice
+Plug 'ftorres16/spice.vim'
+
+" Complete
+Plug 'girishji/vimcomplete'
+
 call plug#end()
 
 " LoadScript init/init-input.vim
