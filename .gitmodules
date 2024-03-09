@@ -1,0 +1,3 @@
+[submodule "plugged/vimcomplete"]
+	path = plugged/vimcomplete
+	url = https://github.com/girishji/vimcomplete
